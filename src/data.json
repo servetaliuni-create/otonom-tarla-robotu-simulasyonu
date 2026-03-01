@@ -1,0 +1,16 @@
+[
+  { "frame": 0, "x": 10, "y": 10, "status": "Sistem Aktif", "action": "Tarlaya giriş yapıldı. Otonom tarama başlatılıyor...", "battery": 100 },
+  { "frame": 150, "x": 40, "y": 10, "status": "Hedef Tespit Edildi", "action": "Uygun tohum yatağı bulundu. Duruldu, tohum ekiliyor ve toprak nemi ölçülüyor...", "battery": 97 },
+  { "frame": 270, "x": 40, "y": 10, "status": "İşlem Tamamlandı", "action": "Ekim başarılı. 1. satır taramasına devam ediliyor...", "battery": 95 },
+  { "frame": 400, "x": 90, "y": 10, "status": "Satır Sonu", "action": "1. satır tamamlandı. Alt satıra geçiş manevrası yapılıyor...", "battery": 92 },
+  { "frame": 490, "x": 90, "y": 30, "status": "Dönüş Manevrası", "action": "2. satıra inildi. Otonom tarama ters yönde sürdürülüyor...", "battery": 90 },
+  { "frame": 620, "x": 60, "y": 30, "status": "Engel Tespit Edildi", "action": "Yaban otu tespit edildi. Otonom ilerleme durduruldu, lazer ile temizlik işlemi uygulanıyor...", "battery": 86 },
+  { "frame": 740, "x": 60, "y": 30, "status": "Temizlik Başarılı", "action": "Yaban otu imha edildi. 2. satır tamamlanıyor...", "battery": 82 },
+  { "frame": 880, "x": 10, "y": 30, "status": "Satır Sonu", "action": "2. satır bitti. 3. satıra geçiş için yavaş manevra yapılıyor...", "battery": 79 },
+  { "frame": 970, "x": 10, "y": 50, "status": "Hızlı Tarama Modu", "action": "3. satıra geçildi. Sensörler temiz, tohumlama hızla yapılıyor...", "battery": 75 },
+  { "frame": 1170, "x": 90, "y": 50, "status": "Satır Sonu", "action": "3. satır bitti. Son sektöre (4. satır) iniliyor...", "battery": 68 },
+  { "frame": 1260, "x": 90, "y": 70, "status": "Sektör Temiz", "action": "4. satır taraması tamamlanıyor...", "battery": 64 },
+  { "frame": 1380, "x": 10, "y": 70, "status": "Görev Tamamlandı", "action": "Tüm alan başarıyla tohumlandı. Geri dönüş protokolü başlatılıyor...", "battery": 58 },
+  { "frame": 1470, "x": 10, "y": 70, "status": "Geri Dönüş Protokolü", "action": "Alan kontrolü için aynı rota üzerinden istasyona geri dönülüyor...", "battery": 55 },
+  { "frame": 1800, "x": 10, "y": 10, "status": "İstasyon", "action": "Görev sonu. Sistem şarj moduna geçiyor.", "battery": 45 }
+]
